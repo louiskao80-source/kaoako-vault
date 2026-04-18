@@ -19,3 +19,5 @@ Thumbs.db
 # 編輯器備份
 *~
 *.bak
+
+/README.md
