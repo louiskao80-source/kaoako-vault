@@ -42,7 +42,7 @@
 - **作業系統**：Windows、Mac、WSL Linux
 - **版本控制**：Git
 - **編輯器**：Obsidian（搭配 Obsidian Git 外掛自動同步）
-- **儲存位置**：`/home/hermes/.hermes/kaoako-vault`
+- **儲存位置**：`~/.hermes/kaoako-vault`
 - **GitHub Repo**：`kaoako-vault`（Private）
 
 ## 📝 維護原則
@@ -52,9 +52,29 @@
 - 每份文件開頭標注最後更新日期
 - 敏感資訊（API key、密碼等）不要放進 repo
 
+## 🔄 同步狀態
+
+- **本地 Vault**：`~/.hermes/kaoako-vault`
+- **GitHub Repo**：https://github.com/louiskao80-source/kaoako-vault
+- **同步工具**：Obsidian Git 外掛（Lazy Sync 模式）
+- **同步狀態**：✅ 正常運作
+
+## 📅 近期更新
+
+### 2026/04/19
+- ✅ 完成 OpenClaw 整合測試
+- ✅ 完成 Obsidian-git 外掛測試
+- ✅ 清理 OpenClaw 設定和資料夾
+- ✅ 確認所有核心檔案已填寫完成
+
 ---
 
+<<<<<<< HEAD
 **最後更新**：2026/04/17
 **版本**：1.0
 
 Test 
+=======
+**最後更新**：2026/04/19  
+**版本**：1.1
+>>>>>>> origin/main
