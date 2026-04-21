@@ -1,0 +1,22 @@
+{
+  "symbol": "2330",
+  "prices": [
+    2025.0
+  ],
+  "analysis": {
+    "rsi": 50.0,
+    "macd": {
+      "macd": 0,
+      "signal": 0,
+      "histogram": 0
+    },
+    "trend": "數據不足",
+    "support_resistance": {
+      "high": 2025.0,
+      "low": 2025.0,
+      "resistance": 2025.0,
+      "support": 2025.0
+    }
+  },
+  "timestamp": "2026-04-21T22:48:15.125158"
+}

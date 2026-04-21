@@ -1,0 +1,22 @@
+{
+  "symbol": "2303",
+  "prices": [
+    76.9
+  ],
+  "analysis": {
+    "rsi": 50.0,
+    "macd": {
+      "macd": 0,
+      "signal": 0,
+      "histogram": 0
+    },
+    "trend": "數據不足",
+    "support_resistance": {
+      "high": 76.9,
+      "low": 76.9,
+      "resistance": 76.9,
+      "support": 76.9
+    }
+  },
+  "timestamp": "2026-04-21T22:48:15.607224"
+}

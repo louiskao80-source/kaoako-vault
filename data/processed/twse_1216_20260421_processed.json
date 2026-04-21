@@ -1,0 +1,22 @@
+{
+  "symbol": "1216",
+  "prices": [
+    72.6
+  ],
+  "analysis": {
+    "rsi": 50.0,
+    "macd": {
+      "macd": 0,
+      "signal": 0,
+      "histogram": 0
+    },
+    "trend": "數據不足",
+    "support_resistance": {
+      "high": 72.6,
+      "low": 72.6,
+      "resistance": 72.6,
+      "support": 72.6
+    }
+  },
+  "timestamp": "2026-04-21T22:48:15.360340"
+}
